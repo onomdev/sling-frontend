@@ -1,5 +1,5 @@
 # Visit the website at
-[https://sling.onomdev.com/](https://github.com/facebook/create-react-app)
+[Click here](https://sling.onomdev.com/)
 
 # Getting Started with Create React App
 
